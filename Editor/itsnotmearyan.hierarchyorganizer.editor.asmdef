@@ -1,0 +1,7 @@
+{
+  "name": "itsnotmearyan.hierarchyorganizer.editor",
+  "references": [
+    "itsnotmearyan.hierarchyorganizer"
+  ],
+  "includePlatforms": ["Editor"]
+}

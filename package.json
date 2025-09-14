@@ -1,0 +1,29 @@
+{
+  "name": "com.itsnotmearyan.hierarchyorganizer",
+  "displayName": "Hierarchy Organizer Tool",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "A Unity Editor tool that automatically organizes the scene hierarchy by grouping empty GameObjects, UI elements, and environment objects, with marker labeling and color customization.",
+  "keywords": [
+    "hierarchy",
+    "editor",
+    "organizer",
+    "unity-tools",
+    "workflow"
+  ],
+  "author": {
+    "name": "Aryan Sharma",
+    "email": "your-email@example.com",
+    "url": "https://github.com/itsnotmearyan"
+  },
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Example Setup",
+      "description": "Example scene and markers to demonstrate how the hierarchy organizer works.",
+      "path": "Samples~/Example"
+    }
+  ]
+}
